@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-.static/
-.templates/
+static/
+templates/
